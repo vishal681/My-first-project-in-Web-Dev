@@ -1,2 +1,2 @@
-#My First Web Dev project
-forntend responsive website
+# First-Web-project
+Front-end responsive website
